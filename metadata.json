@@ -1,0 +1,6 @@
+{
+  "name": "Simple Shopping Store",
+  "description": "A simple, elegant, and fully interactive shopping website with product categories, instant search, a shopping cart, details viewing, and a mock checkout process.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
